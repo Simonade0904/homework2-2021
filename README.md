@@ -1,2 +1,2 @@
-# hw2-2020
-The starter code for Homework 2 Winter 2021 term
+# hw2-2021
+Qingyi Wang's submission for SI539 Fall 2021
